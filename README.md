@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitk-dw (Amit K. Dwivedi)
+- 👋 Hi, I’m @prgAmit (Amit K. Dwivedi)
 - 👀 I’m interested in applicaiton development using Java and related frameworks
 - 🌱 I’m currently learning Python and Kubertentes
 - 💞️ I’m looking to collaborate on open source technologies 
